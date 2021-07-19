@@ -8,7 +8,7 @@ public class Testmain {
 	@Test
 	public void test1()
 	{
-		System.out.println("Am in class1-method---1");
+		System.out.println("Am in class1-method-1");
 	}
 	
 	@Test
